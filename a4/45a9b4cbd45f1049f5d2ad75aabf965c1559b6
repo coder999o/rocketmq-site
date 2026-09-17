@@ -1,0 +1,19 @@
+src/pages/version.md
+  s_ead42aef755086::t_f94782d4944576 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a445a9b4cbd45f1049f5d2ad75aabf965c1559b6",
+  "prompts": {},
+  "sessions": {
+    "s_ead42aef755086": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a4d0-f856-7c60-b184-592be35b91fa",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
